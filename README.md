@@ -17,7 +17,7 @@
 <p align='justify'>Sedangkan di dalam sentimen negatif yang menjadi topik pembicaraan juga masih sering membahas Jokowi dan ekonomi. Namun juga membahas Prabowo, rakyat dan gaji. Ini bisa menjadi indikasi kritik terhadap kebijakan ekonomi Jokowi menjadi fokus utama. Netizen mengekspresikan kekecewaan terhadap pencapaian ekonomi yang dianggap tidak memuaskan. Ada perasaan bahwa kebijakan ekonomi yang diterapkan tidak memberikan dampak positif yang signifikan terhadap kesejahteraan masyarakat. Meskipun ada ketidakpuasan terhadap Jokowi, namun Prabowo juga menjadi sasaran kritik. Fokus pembicaraan netizen seringkali tertuju pada aspek gaji. Ketidakpuasan terhadap pengelolaan gaji dan kebijakan terkait pendapatan menjadi poin penting dalam sentimen negatif.</p>
 
 # WorldCloud Netral
-<img height="50%" width="auto" alt="WorldCloud Netral" src="https://github.com/AptaArkana/sentiment_pemilu_2019/assets/79633073/3c580927-21b0-4545-89b7-0f95b437dfbd">
-![image](https://github.com/AptaArkana/sentiment_pemilu_2019/assets/79633073/65968d2c-158c-4fa9-bc97-d08b4736370d)
+<img height="50%" width="auto" alt="WorldCloud Netral" src="https://github.com/AptaArkana/sentiment_pemilu_2019/assets/79633073/65968d2c-158c-4fa9-bc97-d08b4736370d">
+<p align='justify'>Untuk </p>
 
 
